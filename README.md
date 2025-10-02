@@ -13,7 +13,7 @@ All validations are handled using **JavaScript only** (no HTML `required` or `pa
 - ✅ **Email**: must be in **valid email format** (example: `user@example.com`)  
 - ✅ **Phone**: must be at least **10 digits**  
 - ✅ **Password**: must be at least **6 characters**  
-- ✅ Error messages are displayed if inputs are invalid  
+- ✅ Error messages are displayed if inputs are invalid 
 
 ---
 
